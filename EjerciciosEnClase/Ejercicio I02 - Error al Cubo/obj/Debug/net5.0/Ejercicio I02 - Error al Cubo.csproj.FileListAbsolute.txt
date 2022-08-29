@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\bin\Debug\net5.0\Ejercicio I02 - Error al Cubo.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\bin\Debug\net5.0\Ejercicio I02 - Error al Cubo.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\bin\Debug\net5.0\Ejercicio I02 - Error al Cubo.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\bin\Debug\net5.0\Ejercicio I02 - Error al Cubo.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\bin\Debug\net5.0\Ejercicio I02 - Error al Cubo.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\bin\Debug\net5.0\Ejercicio I02 - Error al Cubo.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\refint\Ejercicio I02 - Error al Cubo.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\Ejercicio I02 - Error al Cubo.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I02 - Error al Cubo\obj\Debug\net5.0\ref\Ejercicio I02 - Error al Cubo.dll

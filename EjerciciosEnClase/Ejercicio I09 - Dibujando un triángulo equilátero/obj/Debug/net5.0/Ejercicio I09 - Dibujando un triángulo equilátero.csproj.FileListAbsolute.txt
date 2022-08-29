@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\bin\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\refint\Ejercicio I09 - Dibujando un triángulo equilátero.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\Ejercicio I09 - Dibujando un triángulo equilátero.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I09 - Dibujando un triángulo equilátero\obj\Debug\net5.0\ref\Ejercicio I09 - Dibujando un triángulo equilátero.dll

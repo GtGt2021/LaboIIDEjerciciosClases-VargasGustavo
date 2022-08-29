@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\bin\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\bin\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\bin\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\bin\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\bin\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\bin\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\refint\Ejercicio I01 - Maximo Minimo y Promedio.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\Ejercicio I01 - Maximo Minimo y Promedio.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I01 - Maximo Minimo y Promedio\obj\Debug\net5.0\ref\Ejercicio I01 - Maximo Minimo y Promedio.dll

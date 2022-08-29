@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\bin\Debug\net5.0\Ejercicio I03 - Los primos.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\bin\Debug\net5.0\Ejercicio I03 - Los primos.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\bin\Debug\net5.0\Ejercicio I03 - Los primos.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\bin\Debug\net5.0\Ejercicio I03 - Los primos.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\bin\Debug\net5.0\Ejercicio I03 - Los primos.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\bin\Debug\net5.0\Ejercicio I03 - Los primos.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\refint\Ejercicio I03 - Los primos.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\Ejercicio I03 - Los primos.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I03 - Los primos\obj\Debug\net5.0\ref\Ejercicio I03 - Los primos.dll

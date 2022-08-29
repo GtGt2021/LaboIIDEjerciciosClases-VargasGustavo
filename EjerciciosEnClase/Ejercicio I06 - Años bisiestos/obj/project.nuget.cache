@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YX0la4SJ204gzKhcOkMcONYK6pzsLrlYUtcl/h8TZxBwwuyMWxtaV/Cogj5zq7/WgklnZpCSmJZVY7SA/YaG1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johalis\\Desktop\\programacionII-EjerciciosClase\\EjerciciosEnClase\\Ejercicio I06 - Años bisiestos\\Ejercicio I06 - Años bisiestos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johalis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

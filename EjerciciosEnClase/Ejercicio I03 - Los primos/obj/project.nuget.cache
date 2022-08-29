@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IsGu8Qe4EjBTFj0T88WbYvlFkCm0XjRzIFXZn9A3i4Y0vRsraeSjDkVvWzobQwmOik2TO9ptNU7t4QzWnqUZ0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johalis\\Desktop\\programacionII-EjerciciosClase\\EjerciciosEnClase\\Ejercicio I03 - Los primos\\Ejercicio I03 - Los primos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johalis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

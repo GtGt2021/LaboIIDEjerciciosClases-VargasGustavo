@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XkRjNZ+Uhc0AwnctmL2wU04hxc8SlzWEkvRZiGhOUNShw47oa0dhL4DxfCarKrjUWzQ7zbTRWPcPeb2UPjnz2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johalis\\Desktop\\programacionII-EjerciciosClase\\EjerciciosEnClase\\Ejercicio I08 - Dibujando un triángulo rectángulo\\Ejercicio I08 - Dibujando un triángulo rectángulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johalis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

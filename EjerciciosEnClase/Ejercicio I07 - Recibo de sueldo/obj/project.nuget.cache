@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xR6SSQI/wLELWW8/ozwVszj0fEo2ireyXRs7mGoXzTiFX52m9V40JXCA4zol9k96exnGkPSuszMqynF1cyHnBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johalis\\Desktop\\programacionII-EjerciciosClase\\EjerciciosEnClase\\Ejercicio I07 - Recibo de sueldo\\Ejercicio I07 - Recibo de sueldo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johalis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

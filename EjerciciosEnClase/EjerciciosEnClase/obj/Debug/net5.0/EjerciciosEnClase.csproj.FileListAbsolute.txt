@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\net5.0\EjerciciosEnClase.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\net5.0\EjerciciosEnClase.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\net5.0\EjerciciosEnClase.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\net5.0\EjerciciosEnClase.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\net5.0\EjerciciosEnClase.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\bin\Debug\net5.0\EjerciciosEnClase.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\refint\EjerciciosEnClase.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\EjerciciosEnClase.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\EjerciciosEnClase\obj\Debug\net5.0\ref\EjerciciosEnClase.dll

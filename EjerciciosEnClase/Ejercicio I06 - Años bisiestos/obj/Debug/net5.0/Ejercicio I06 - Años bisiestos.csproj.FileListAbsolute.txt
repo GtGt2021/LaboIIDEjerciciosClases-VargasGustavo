@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\bin\Debug\net5.0\Ejercicio I06 - Años bisiestos.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\bin\Debug\net5.0\Ejercicio I06 - Años bisiestos.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\bin\Debug\net5.0\Ejercicio I06 - Años bisiestos.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\bin\Debug\net5.0\Ejercicio I06 - Años bisiestos.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\bin\Debug\net5.0\Ejercicio I06 - Años bisiestos.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\bin\Debug\net5.0\Ejercicio I06 - Años bisiestos.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\refint\Ejercicio I06 - Años bisiestos.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\Ejercicio I06 - Años bisiestos.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I06 - Años bisiestos\obj\Debug\net5.0\ref\Ejercicio I06 - Años bisiestos.dll

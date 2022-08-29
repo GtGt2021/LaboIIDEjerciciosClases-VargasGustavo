@@ -1,0 +1,16 @@
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.exe
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.deps.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.runtimeconfig.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.runtimeconfig.dev.json
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.AssemblyInfo.cs
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\refint\Ejercicio I04 - Un número perfecto.dll
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.genruntimeconfig.cache
+C:\Users\Johalis\Desktop\programacionII-EjerciciosClase\EjerciciosEnClase\Ejercicio I04 - Un número perfecto\obj\Debug\net5.0\ref\Ejercicio I04 - Un número perfecto.dll

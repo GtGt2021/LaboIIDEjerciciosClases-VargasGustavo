@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KzFqwpJdk15eXCvCvetwnomzIwnAbMuUOxQsaSPJaVW9kh3fCttLMtoj7/dWWjNX3TR7myStCYyAO6p5UqBhwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johalis\\Desktop\\programacionII-EjerciciosClase\\EjerciciosEnClase\\Ejercicio I09 - Dibujando un triángulo equilátero\\Ejercicio I09 - Dibujando un triángulo equilátero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johalis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

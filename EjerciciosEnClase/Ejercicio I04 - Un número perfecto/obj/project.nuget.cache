@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1ECKajc6SzZClHEH9g0n3B//Lwy1RCp8fR1SOQFXOm6LXpKk8rqtDB6yCG6El2MkkNMo6V5KKKGUNUCmnvtVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johalis\\Desktop\\programacionII-EjerciciosClase\\EjerciciosEnClase\\Ejercicio I04 - Un número perfecto\\Ejercicio I04 - Un número perfecto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johalis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
